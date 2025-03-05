@@ -1,4 +1,4 @@
-# Notes app
+# React Native - Notes app
 
 Simple notes app built with React Native and Expo. It allows users to add, edit, and delete notes using [Appwrite](https://appwrite.io/).  
 <br>
