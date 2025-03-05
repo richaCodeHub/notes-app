@@ -1,5 +1,12 @@
-# Welcome to your Expo app 👋
+# Notes app
 
+Simple notes app built with React Native and Expo. It allows users to add, edit, and delete notes using [Appwrite](https://appwrite.io/).  
+<br>
+<img width="276" alt="Screenshot 2025-03-05 at 2 59 24 PM" src="https://github.com/user-attachments/assets/0894f95e-31d8-4711-859d-c5a8e670d106" />
+<img width="290" alt="Screenshot 2025-03-05 at 2 59 37 PM" src="https://github.com/user-attachments/assets/a96d7018-df39-4af7-896a-134c5aeab033" />
+<img width="285" alt="Screenshot 2025-03-05 at 3 00 00 PM" src="https://github.com/user-attachments/assets/1e3d46a0-48ce-41f0-bcc6-a2d852aa3e50" />
+<img width="302" alt="Screenshot 2025-03-05 at 3 00 07 PM" src="https://github.com/user-attachments/assets/6b53548b-12a3-429b-a95e-fc083464b747" />  
+<br>
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
